@@ -1,0 +1,40 @@
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.exe
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.deps.json
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.runtimeconfig.json
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.dll
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\ref\test.dll
+C:\Users\lenovo\source\repos\test\test\bin\Debug\net5.0-windows\test.pdb
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.vbprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.Form1.resources
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.vbproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.AssemblyInfo.vb
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.dll
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\ref\test.dll
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.pdb
+C:\Users\lenovo\source\repos\test\test\obj\Debug\net5.0-windows\test.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.exe
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.deps.json
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.runtimeconfig.json
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\ref\test.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\test.pdb
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.vbprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.Form1.resources
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.AssemblyInfo.vb
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\ref\test.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.pdb
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.vbproj.CopyComplete
+C:\Users\lenovo\Desktop\Wesley Files\test\test\obj\Debug\net5.0-windows\test.Form2.resources
